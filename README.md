@@ -12,5 +12,5 @@ To test:
 * Day 2: [OK](solutions/day02.py)
 * Day 3: [OK-ish](solutions/day03.py)
 * Day 4: [OK](solutions/day04.py)
-* Day 5: [Very slow!](solutions/day05.py)
+* Day 5: [OK-ish](solutions/day05.py)
 * Day 6: [OK](solutions/day06.py)
