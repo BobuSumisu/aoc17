@@ -8,9 +8,9 @@ To test:
 
 ## Status
 
-* Day 1: [solutions/day01.py](OK)
-* Day 2: [solutions/day02.py](OK)
-* Day 3: [solutions/day03.py](OK-ish)
-* Day 4: [solutions/day04.py](OK)
-* Day 5: [solutions/day05.py](OK-ish (Very slow!))
-* Day 6: [solutions/day06.py](OK)
+* Day 1: [OK](solutions/day01.py)
+* Day 2: [OK](solutions/day02.py)
+* Day 3: [OK-ish](solutions/day03.py)
+* Day 4: [OK](solutions/day04.py)
+* Day 5: [Very slow!](solutions/day05.py)
+* Day 6: [OK](solutions/day06.py)
